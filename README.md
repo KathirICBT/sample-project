@@ -8,3 +8,4 @@
 4. `git init`
 5. `git add .`
 6. `git commit -m "message"`
+7. `npm install nodemon`
